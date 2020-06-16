@@ -1,2 +1,2 @@
 # vue-dymo-js
-VueJS Wrapper for Dymo
+VueJS plugin to interface with [DYMO Local Web Server](https://developers.dymo.com/)
