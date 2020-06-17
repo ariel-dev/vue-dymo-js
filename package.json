@@ -1,0 +1,18 @@
+{
+    "name": "vue-dymo-js",
+    "version": "0.0.1",
+    "description": "A VueJS plugin for communicating with the DYMO Web Server",
+    "main": "lib/index.js",
+    "keyword": [
+        "dymo",
+        "label",
+        "printer",
+        "vuejs"
+    ],
+    "author": "Ariel German",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ariel-dev/vue-dymo-js.git"
+      }
+}
