@@ -14,5 +14,15 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/ariel-dev/vue-dymo-js.git"
-      }
+    },
+    "scripts": {
+        "serve": "vue serve"
+    },
+    "dependencies": {
+        "axios": "^0.19.2"
+    },
+    "devDependencies": {
+        "eslint": "^7.2.0",
+        "eslint-plugin-vue": "^6.2.2"
+    }
 }
