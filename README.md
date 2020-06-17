@@ -13,8 +13,8 @@ easier
 ## How is this different from dymojs?
 If have been looking for library that will help you connect to a DYMO printer you may have ran into [dymojs](https://github.com/dsandor/dymojs). I tried to use this module but started to notice that its age was starting to show in the documentation and also in the code itself. I was heavily inspired by that project to create a similiar project but up to date with the changes the DYMO team  has made.
 
-## Supported Printers
-Currently the only printer I have tested on has been the DYMO Label Printer 450 Turbo
+## Tested Printers
+DYMO Label Printer 450 Turbo
 
 
 
